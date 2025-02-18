@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Header Files\core">
+      <UniqueIdentifier>{b11520b8-9912-40a3-a312-4e37f4b97a37}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\StudentScreens">
+      <UniqueIdentifier>{6c3d8e07-372a-4738-a83f-e95e57449b7e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\lib">
+      <UniqueIdentifier>{98b972df-742e-4395-b536-523ce6ddc128}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\StudentScreens\ListsScreen">
+      <UniqueIdentifier>{bdde280e-7272-4ac3-b71c-afa2e83cce4a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="student mangment.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="clsStudent.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="clsScreen.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="clsMainScreen.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="clsPerson.h">
+      <Filter>Header Files\core</Filter>
+    </ClInclude>
+    <ClInclude Include="clsStudent.h">
+      <Filter>Header Files\core</Filter>
+    </ClInclude>
+    <ClInclude Include="clsUpdateStudentScreen.h">
+      <Filter>Header Files\StudentScreens</Filter>
+    </ClInclude>
+    <ClInclude Include="clsDeleteStudentScreen.h">
+      <Filter>Header Files\StudentScreens</Filter>
+    </ClInclude>
+    <ClInclude Include="clsFindStudentScreen.h">
+      <Filter>Header Files\StudentScreens</Filter>
+    </ClInclude>
+    <ClInclude Include="clsListStudentScreen.h">
+      <Filter>Header Files\StudentScreens</Filter>
+    </ClInclude>
+    <ClInclude Include="clsRefreshStudentDataScreen.h">
+      <Filter>Header Files\StudentScreens</Filter>
+    </ClInclude>
+    <ClInclude Include="clsUtil.h">
+      <Filter>Header Files\lib</Filter>
+    </ClInclude>
+    <ClInclude Include="clsInputValidate.h">
+      <Filter>Header Files\lib</Filter>
+    </ClInclude>
+    <ClInclude Include="clsDate.h">
+      <Filter>Header Files\lib</Filter>
+    </ClInclude>
+    <ClInclude Include="clsString.h">
+      <Filter>Header Files\lib</Filter>
+    </ClInclude>
+    <ClInclude Include="clsMainListStudensScreen.h">
+      <Filter>Header Files\StudentScreens\ListsScreen</Filter>
+    </ClInclude>
+    <ClInclude Include="clsFirstAcadimicLIstScreen.h">
+      <Filter>Header Files\StudentScreens\ListsScreen</Filter>
+    </ClInclude>
+    <ClInclude Include="clsSecondACDStudentListScreec.h">
+      <Filter>Header Files\StudentScreens\ListsScreen</Filter>
+    </ClInclude>
+    <ClInclude Include="clsThirdStudentListScreen.h">
+      <Filter>Header Files\StudentScreens\ListsScreen</Filter>
+    </ClInclude>
+    <ClInclude Include="clsFourthACDstudentsScreen.h">
+      <Filter>Header Files\StudentScreens\ListsScreen</Filter>
+    </ClInclude>
+    <ClInclude Include="clsAddNewStudent.h">
+      <Filter>Header Files\StudentScreens</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
