@@ -81,5 +81,5 @@ If you want to contribute to the development of the project, please create a **P
 
 ---
 
-**Developed by [Your Name or Team Name]**
+**Developed by [Waleed Mohamed AL-holw]*
 
