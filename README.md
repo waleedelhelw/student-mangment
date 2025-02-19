@@ -64,6 +64,21 @@ Store each academic level’s data in a separate file to facilitate future searc
 Exit the program and end the session.
 
 
+
+
+Local File Storage Requirement
+
+The system is built using local files stored on the user's computer.
+
+To ensure the program runs correctly:
+
+1. Create the necessary files in the same directory structure as specified in the program.
+
+
+2. Alternatively, modify the file paths in the program to match your custom directory structure.
+
+
+
 How to Run the Project
 
 1. Download or clone the project from GitHub.
